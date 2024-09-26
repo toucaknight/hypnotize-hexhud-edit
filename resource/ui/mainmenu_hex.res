@@ -501,7 +501,7 @@
 			"proportionaltoparent"	"1"
 			"zpos"					"1"
 			"wide"					"28"
-			"tall"					"0"
+			"tall"					"28"
 			"visible"				"1"
 			"enabled"				"1"
 			"scaleImage"			"1"
@@ -553,7 +553,7 @@
 		"brighttext"				"0"
 		"default"					"1"
 		"labeltext" 				"QUIT"
-		"command" 					"quit"
+		"command" 					"engine quit"
 		"proportionaltoparent"		"1"
 		
 		"fgcolor_override"			"245 245 245 255"

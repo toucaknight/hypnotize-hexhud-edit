@@ -2341,8 +2341,8 @@
 		"command" 					"engine open_store"
 		"proportionaltoparent"		"1"
 		
-		"fgcolor_override"			"245 245 245 60"
-		"defaultfgcolor_override"	"245 245 245 60"
+		"fgcolor_override"			"245 245 245 255"
+		"defaultfgcolor_override"	"245 245 245 255"
 		"armedfgcolor_override"		"245 245 245 160"
 		"armedbgcolor_override"		"255 255 255 16"
 
@@ -2351,7 +2351,7 @@
 			
 		"paintbackground"			"1"
 				
-		"image_drawcolor"			"245 245 245 60"
+		"image_drawcolor"			"245 245 245 250"
 		"image_armedcolor"			"245 245 245 200"
 		
 		"SubImage"
@@ -2398,7 +2398,7 @@
 		"brighttext"				"0"
 		"default"					"1"
 		"labeltext" 				"QUIT"
-		"command" 					"quit"
+		"command" 					"engine quit"
 		"proportionaltoparent"		"1"
 		
 		"fgcolor_override"			"245 245 245 60"

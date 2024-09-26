@@ -64,11 +64,11 @@
 
 		"Orange"											"243 155 83 255"
 
-		"Background_Light"									"59 61 72 255"
-		"Background"										"45 45 55 255"
-		"Background_Dark"									"25 25 35 255"
+		"Background_Light"									"60 60 60 255"
+		"Background"										"20 20 20 255"
+		"Background_Dark"									"15 15 15 255"
 
-		"TransparentBackground"								"45 45 55 200"
+		"TransparentBackground"								"15 15 15 200"
 		"TransparentBlack"									"0 0 0 150"
 		"TransparentLightBlack"								"0 0 0 100"
 
@@ -76,15 +76,15 @@
 		// MENU COLORS
 		//=============================================================================
 		"Main_Menu_Background"								"0 0 0 255"		// "0 0 0 0" to remove
-		"Pause_Menu_Background"								"0 0 0 255"		// "0 0 0 0" to remove
+		"Pause_Menu_Background"								"20 20 20 100"		// "0 0 0 0" to remove
 
 		"Background_Main"									"0 0 0 255"
-		"Background_Secondary"								"20 20 20 255"
+		"Background_Secondary"								"30 30 30 255"
 
-		"Dashboard"											"0 0 0 255"
+		"Dashboard"											"20 20 20 255"
 		"Loadout_NavigationBar"								"5 5 5 255"
 
-		"Button"											"0 0 0 255"
+		"Button"											"20 20 20 255"
 		"Button_Hover"										"57 57 57 255"
 		"Button_Green"										"15 108 89 255"
 		"Button_Green_Hover"								"22 162 134 255"
@@ -97,17 +97,17 @@
 		"White_Dark"										"240 240 240 255"
 		"White_Darker"										"240 240 240 255"
 
-		"Black"												"0 0 0 255"
-		"Black_Blue"										"0 0 0 255"
+		"Black"												"20 20 20 255"
+		"Black_Blue"										"20 20 20 255"
 
 		"Gray_Blue_Darkest"									"20 20 20 255"
 		"Gray_Blue_Dark"									"20 20 20 255"
 		"Gray_Bluer_Dark"									"20 20 20 255"
 		"Gray_Blue"										"42 42 42 255"
-		"Gray_Blue_Light"									"57 57 57 255"
+		"Gray_Blue_Light"									"50 50 50 255"
 
-		"Gray"												"0 0 0 255"
-		"Gray_Light"										"0 0 0 255"
+		"Gray"												"20 20 20 255"
+		"Gray_Light"										"20 20 20 255"
 
 		//=============================================================================
 		// ITEM QUALITY COLORS

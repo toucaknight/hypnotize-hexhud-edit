@@ -87,7 +87,7 @@
 		"Button"											"20 20 20 255"
 		"Button_Hover"										"57 57 57 255"
 		"Button_Green"										"15 108 89 255"
-		"Button_Green_Hover"								"22 162 134 255"
+		"Button_Green_Hover"								"22 162 135 255"
 		"Button_Red"										"175 60 70 255"
 		"Button_Red_Hover"									"225 71 75 255"
 
